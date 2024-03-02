@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+
+  background-image: url('https://png.pngtree.com/background/20210715/original/pngtree-trendy-abstract-fluid-background-art-template-with-doodle-pattern-and-geometric-picture-image_1326145.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0; /* Add this line to remove default margin */
+}
+
+.header {
+  background-color: #0e0d0d;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card-title {
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-family: 'Lucida Handwriting', cursive;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.card {
+  margin-bottom: 20px;
+}
